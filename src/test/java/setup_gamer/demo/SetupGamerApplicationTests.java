@@ -1,0 +1,13 @@
+package setup_gamer.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SetupGamerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
